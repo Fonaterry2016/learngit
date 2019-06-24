@@ -5,4 +5,6 @@ Git has a mutable index called stage.
 
 added in test1
 
+added in test again
+
 
