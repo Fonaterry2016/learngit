@@ -3,13 +3,10 @@ Git is free software under GPL.
 Git has a mutable index called stage.
 
 
-added in test1
-
-added in test again
-
-added test again
+added in test
 
 
-added in test1 again
+
+added in test1 
 
 
